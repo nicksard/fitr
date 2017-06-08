@@ -1,0 +1,12 @@
+Package: fitr
+Type: Package
+Title: Functions to aid in the analysis of fitness data generated using genetically reconstructed pedigrees.
+Version: 0.1.0
+Author: Nick Sard
+Maintainer: Nick Sard <nicksard@gmail.com>
+Description: This package was designed to help users calculate evaluate genetic data used to reconstruct genetic
+  pedigrees, and once the genetic pediree is assembled, calculate fitness and mating success.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
